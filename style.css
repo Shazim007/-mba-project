@@ -271,7 +271,7 @@ width: 50px;
 }
 
 .blog-box {
-
+    overflow: hidden ;
     padding: 10px;
     margin: 10px 3px;
     /* border: 2px black solid; */

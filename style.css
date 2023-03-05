@@ -13,7 +13,7 @@ html{
 
 header {
     display: flex;
-	/* background-color: rgb(76, 15, 117); */
+	background-color: rgb(76, 15, 117);
 	color: #fff;
 	padding: 10px;
 	position: fixed;

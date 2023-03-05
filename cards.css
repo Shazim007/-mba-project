@@ -30,7 +30,7 @@ h3 {
 }
 .more{
     margin: 20px;
-        width: 180px;
+        width: auto;
         height: 270px;
         overflow: hidden;
         display: flex;

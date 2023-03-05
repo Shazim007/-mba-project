@@ -63,7 +63,7 @@ h3 {
 
         .cards{
             display: flex;
-            flex-wrap: wrap;
+            flex-wrap: nowrap;
             transition:flex 2s ease-in-out;
             justify-content: center;
         }
